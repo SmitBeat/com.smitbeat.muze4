@@ -13,6 +13,12 @@
 				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.muze4/master/02.Wallpaper.png",
 				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.muze4/master/02.Wallpaper.png",
 				"name": "Wallpaper 2"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.muze4/master/03.Wallpaper.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.muze4/master/03.Wallpaper.png",
+				"name": "Wallpaper 3"	
 			}
 		]
 }
